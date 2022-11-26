@@ -1,4 +1,6 @@
 # RANKS
+Import the ``import.sql`` file into your database
+
 This resource is for developers/server owners who want to be able to restrict certain things for their users until they reach a certain rank. By itself it will keep track of the ranking of your team. To get the most out of it you will need to code it into a resource based around an if statement. Almost the whole resource is server sided and I may add a hud feature in the future if it's requested. At the moment I don't want to clutter the user screen with yet another hud element.
 
 ## Dependencies
